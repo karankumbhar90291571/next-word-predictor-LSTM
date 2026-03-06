@@ -18,4 +18,5 @@ This project predicts the next word in a sentence using an LSTM neural network.
 
 ## Run Locally
 pip install -r requirements.txt
+
 streamlit run app.py
